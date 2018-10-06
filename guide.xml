@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV CINE 2 HD">
+    <display-name lang="pt">TV CINE 2 HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=150&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <programme start="20181006014000 +0100" stop="20181006020500 +0100" channel="TV CINE 2 HD">
+    <title lang="pt">Zoo</title>
+    <desc lang="pt">Esta é a história de animais enjaulados sob o nosso olhar. Uma rotina que se repete vezes sem conta num passeio de família. Por vezes, a relação adulta aos olhos de uma criança pode-se assemelhar a uma selva ou um zoo(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_21260076/16_9/325/244" />
+  </programme>
+  <programme start="20181006020500 +0100" stop="20181006034500 +0100" channel="TV CINE 2 HD">
+    <title lang="pt">O Meu Belo Sol Interior</title>
+    <desc lang="pt">Isabelle é uma artista parisiense, mãe divorciada, em busca do amor. Por fim o amor ideal(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_21268654/16_9/325/244" />
+  </programme>
+  <programme start="20181006034500 +0100" stop="20181006055500 +0100" channel="TV CINE 2 HD">
+    <title lang="pt">Zeus</title>
+    <desc lang="pt">A história de Manuel Teixeira Gomes, o sétimo Presidente da República e também escritor, que publicou literatura erótica. Aos 65 anos, e passados apenas 26 meses no cargo, durante a ascensão do fascismo, larga tudo e vive exilado no Norte de África(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_21268634/16_9/325/244" />
+  </programme>
+  <programme start="20181006055500 +0100" stop="20181006073000 +0100" channel="TV CINE 2 HD">
+    <title lang="pt">O Comboio das 3 e 10</title>
+    <desc lang="pt">Aspirando a uma recompensa, um rancheiro endividado aceita escoltar um bandido terrível até à estação de comboios de uma cidade vizinha. Pelo caminho, tem de enfrentar os outros membros do gangue que o tentam libertar(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_21262622/16_9/325/244" />
+  </programme>
+  <programme start="20181006073000 +0100" stop="20181006090500 +0100" channel="TV CINE 2 HD">
+    <title lang="pt">Desejo Humano</title>
+    <desc lang="pt">De volta do Japão, o engenheiro e ex-militar Jeff é seduzido pela mulher do seu colega. Mais tarde, envolve-se num homicídio levado a cabo pelo casal(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_21260084/16_9/325/244" />
+  </programme>
+  <programme start="20181006090500 +0100" stop="20181006110000 +0100" channel="TV CINE 2 HD">
+    <title lang="pt">Um Americano em Paris</title>
+    <desc lang="pt">Jerry Mulligan, um ex-soldado americano, vive em Paris decidido a fazer carreira como pintor. O seu amigo Henri, o célebre ator do "music-hall", anuncia-lhe que vai casar com a bela e jovem Lise, exatamente a rapariga que Jerry conhece um dia por acaso, numa loja, e por quem se apaixona(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_21152609/16_9/325/244" />
+  </programme>
+  <programme start="20181006110000 +0100" stop="20181006125000 +0100" channel="TV CINE 2 HD">
+    <title lang="pt">Ninguém é Santo</title>
+    <desc lang="pt">Dois fugitivos à policia escondem-se numa igreja, onde fingem que são padres(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_21273102/16_9/325/244" />
+  </programme>
+  <programme start="20181006125000 +0100" stop="20181006143500 +0100" channel="TV CINE 2 HD">
+    <title lang="pt">Pânico em Hollywood</title>
+    <desc lang="pt">A vida de um produtor nos bastidores de Hollywood não é fácil! Ben tenta, em desespero, juntar em harmonia um ator narcisista que se recusa a cortar a barba, uma chefe que tem sempre a razão, um agente com várias úlceras nervosas, uma filha que não é tão inocente como parece e uma ex-mulher(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_214760/16_9/325/244" />
+  </programme>
+  <programme start="20181006143500 +0100" stop="20181006164000 +0100" channel="TV CINE 2 HD">
+    <title lang="pt">Despertares</title>
+    <desc lang="pt">Malcolm Sayer é um tímido médico, que utiliza um medicamento experimental para "despertar" vítimas catatónicas de uma doença rara. Leonard é o primeiro paciente a receber o controverso tratamento. O seu despertar, cheio de espanto e entusiasmo, prova ser um renascimento também para Sayer.(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_211972/16_9/325/244" />
+  </programme>
+  <programme start="20181006164000 +0100" stop="20181006200000 +0100" channel="TV CINE 2 HD">
+    <title lang="pt">O Padrinho: Parte II</title>
+    <desc lang="pt">Continuação da saga da vida da família Corleone. Num regresso às origens da família e à juventude do patriarca, o início da vida e carreira de Vito Corleone é recordado, ao mesmo que tempo que o filho Michael continua a progredir no mundo do crime em meados do século XX(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_216157/16_9/325/244" />
+  </programme>
+  <programme start="20181006200000 +0100" stop="20181006220000 +0100" channel="TV CINE 2 HD">
+    <title lang="pt">Os Intocáveis</title>
+    <desc lang="pt">No princípio dos anos 30, Elliott Ness e a sua equipa têm por missão conseguir pôr atrás das grades o rei do crime organizado, Al Capone(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_213668/16_9/325/244" />
+  </programme>
+  <programme start="20181006220000 +0100" stop="20181007000500 +0100" channel="TV CINE 2 HD">
+    <title lang="pt">The Score</title>
+    <desc lang="pt">Nick Wells, um ladrão de meia-idade, decide mudar de vida e dedicar-se a um negócio legal. No entanto, para salvar um velho amigo, Nick aceita fazer um último assalto com um dúbio parceiro. Só que aquilo que começou como uma aposta segura torna-se um jogo de alto risco.(n)</desc>
+    <icon src="http://web.ottimg.vodafone.pt/iptvimageserver/Get/TVC2 HD_215160/16_9/325/244" />
+  </programme>
+</tv>
